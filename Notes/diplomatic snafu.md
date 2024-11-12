@@ -1,0 +1,7 @@
+- Trade deal involving an envoy from [[Churdean Theocracy]] 
+- It went bad
+- People died
+- Diplomats were expelled
+- Former Sous-chef took the blame
+	- Sits in a dungeon in the capital
+	- [[Humphrey Thoile]] pinned it on him?

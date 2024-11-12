@@ -1,0 +1,7 @@
+- Polytheistic society
+	- Think of the Norse pantheon where the Aesir and Vanir were once opposed and fought against each other, but combined into a single pantheon through marriage between the gods themselves. The Elves claim clerical superiority because their prime deity leads the combined pantheon.
+- Class based society
+	- Different social and religious factions exist in detente
+- Civil War
+	- ~120 years ago
+	- Lost lands to [[Khiz]]

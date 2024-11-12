@@ -1,0 +1,5 @@
+- Chef de cuisine of the castle at [[Sadgurth]]
+- Description
+	- 60s male human
+	- Grey eyes
+	- Bald

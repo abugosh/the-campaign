@@ -1,0 +1,4 @@
+- Sous-chef of castle at [[Sadgurth]]
+- Recently hired
+	- Last Sous-chef was dismissed following a [[diplomatic snafu]]
+	- Looks like he got himself into a pickle with this job

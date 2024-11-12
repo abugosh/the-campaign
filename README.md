@@ -1,0 +1,1 @@
+This Obsidian Vault is a knowledge repository for [[The Campaign]] made by [[Bugosh]]. 

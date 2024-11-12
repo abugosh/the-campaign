@@ -1,0 +1,11 @@
+- ![[North Khiz.jpeg]]
+- Human kingdom
+	- Humans arrived on this continent ~1000 years ago
+	- There is a king with a name
+- Equator runs through north of the continent
+	- Farming is big in the north
+- Trade is important
+	- [[Barag Empire]] imports much of its food
+	- [[Halfling Trade Fleet]] powers a lot of the overall trade
+	- [[Zrag]] is opening up as a market
+	- The orcs of [[Kemirkor]] threaten sea based trade with piracy forcing Khiz to seek easier trade

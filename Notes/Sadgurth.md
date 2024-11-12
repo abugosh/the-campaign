@@ -1,0 +1,10 @@
+- ![[Sadgurth.jpeg]]
+- Capital of County of [[Shundige]]
+- Center of the breadbasket of the north
+- Economic center of [[Khiz]]
+- Castle hosts a famous kitchen
+	- The kitchen sits at the center of the local economy
+	- Being favored or snubbed by the kitchen can destroy businesses
+		- Local nobility follows the lead of [[Count Name]]
+	- [[Humphrey Thoile]] is the Chef de cuisine
+	- [[Derrick Westham]] is the Sous-chef

@@ -1,0 +1,6 @@
+- Married to his third wife [[Countess Beevus]]
+- Does not yet have an heir
+- Family came from the south
+	- An area called [[Brentony]]
+	- Granted rule of [[Sadgurth]] due to success in taking lands from the [[Churdean Theocracy]] during their last civil war
+		- Land seized to the east of the lakes

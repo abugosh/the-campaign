@@ -1,4 +1,4 @@
-- Married to his third wife [[Countess Beevus]]
+- Married to his third wife [[Countess Beamis]]
 - Does not yet have an heir
 - Family came from the south
 	- An area called [[Brentony]]

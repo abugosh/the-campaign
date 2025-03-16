@@ -1,0 +1,5 @@
+- Port city
+- Wine city
+	- Lots of wine production
+	- Grow some grapes locally but also import from the [[Halfling Trade Fleet]]
+- No real military presence

@@ -1,0 +1,6 @@
+- Good view of the city
+- Meant to be impressive
+	- Did not work out
+- Glory days did not stay
+	- Left district in decline
+	- Many buildings basically abandoned

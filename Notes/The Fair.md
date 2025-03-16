@@ -1,0 +1,5 @@
+- Place of contrasts
+- Eerily quiet during the normal year
+- Bustling during the Fair time
+	- Fair is at end of fall October time frame
+- Big open fields

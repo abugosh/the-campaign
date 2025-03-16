@@ -1,0 +1,13 @@
+- Common folk
+- Spice market
+- Smells of spice
+- [[Log]] fits in nicely here
+	- Folk that work with hands
+	- Big things up and put them down
+- Gemstone quarter
+	- inside the city gates
+	- near guard emplacements
+	- gem area
+- Foreign temples
+	- Some are real and some are cons
+	- Travelers will often stop to pay respects to a temple from their homeland

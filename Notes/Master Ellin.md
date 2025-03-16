@@ -1,0 +1,3 @@
+- Renowned scholar
+- Deep understanding of history of realm
+- Simple man

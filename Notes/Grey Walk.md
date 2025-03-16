@@ -1,0 +1,4 @@
+- Lower class area
+	- servants of the folks that live in [[old sadgurth]]
+- Own their homes and work hard
+	- Very proud

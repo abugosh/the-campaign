@@ -1,0 +1,3 @@
+- Goddess of moist
+- Jade eggs are the foci 
+- Water/poison domains for clerics

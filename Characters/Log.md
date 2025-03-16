@@ -1,10 +1,10 @@
 **Player**: [[Beckwith]]
 
 ## Vitals/Description
-**Race**: Half-Giant?
-**Class**: Barbarian
+**Race**: Half-Giant
+**Class**: Psychic Warrior
 
-Large human looking guy.
+Large human looking guy. Grey wirey close cropped hair. Really tall, 7" 5' 350lbs. Very broad shoulders.
 
 ## Notes
 - Works in the kitchen as a laborer

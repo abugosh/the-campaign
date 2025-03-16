@@ -8,79 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e3e498a342ba676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024-11-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-10"
-            }
-          },
-          {
             "id": "61e67d80cf799f32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Khiz.md",
+                "file": "Sessions/2025-3-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khiz"
-            }
-          },
-          {
-            "id": "ce1287d23e072338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Countess Beevus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Countess Beevus"
-            }
-          }
-        ]
-      },
-      {
-        "id": "545d65fd662d7b64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09616218db15e4f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2024-12-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-24"
-            }
-          },
-          {
-            "id": "b5c66d37e3c3024c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prepare Brunch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prepare Brunch"
+              "title": "2025-3-15"
             }
           }
         ]
@@ -102,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -237,41 +176,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e97d1cdbd09ae99",
+  "active": "6d188edd5ebe4043",
   "lastOpenFiles": [
-    "Prepare Brunch.md",
-    "Sessions/2024-12-24.md",
-    "Sessions/2024-11-10.md",
-    "Notes/Chamembar cheese.md",
-    "Notes/Khiz.md",
-    "Notes/Humphrey Thoile.md",
-    "Notes/diplomatic snafu.md",
-    "Notes/Derrick Westham.md",
-    "Notes/Countess Beamis.md",
-    "Notes/Count Sadgurth.md",
-    "Players/Wes.md",
-    "Players/Shuppy.md",
-    "Players/Emmett.md",
-    "Players/Bugosh.md",
-    "Players/Beckwith.md",
-    "Images/World Map.jpeg",
+    "Images/Log waking Odwid.png",
+    "Sessions/2025-3-15.md",
+    "Notes/Sadgurth.md",
+    "Notes/Odwid.md",
+    "Notes/Pre-harvest Ball.md",
+    "Notes/Black Water.md",
+    "Notes/The Greater Goods.md",
+    "README.md",
+    "Notes/Platty of Puss.md",
+    "Notes/Broken Candle.md",
+    "Sessions/2025-2-16.md",
+    "Notes/Frosty Tankard.md",
+    "Notes/Harper.md",
+    "Images/Harper the barmaid.png",
+    "Images/Frida the barmaid.png",
+    "Notes/Frida Boatydaughter.md",
+    "Notes/Haul ASS.md",
+    "Notes/Marbahargen.md",
+    "Notes/Master Ellin.md",
+    "Notes/Lord Tristian Blackwood.md",
+    "Notes/Stone Rise.md",
+    "Notes/South Slums.md",
     "Images/Sadgurth.jpeg",
+    "Notes/Count Sadgurth.md",
+    "Notes/Khiz.md",
+    "Notes/Grey Walk.md",
+    "Notes/Spice Gate.md",
+    "Notes/The Fair.md",
+    "Characters/Mick the Brewer.md",
+    "Quests",
+    "Images/Mick the Brewer.png",
+    "Images/Mick the Brewer and Leak.png",
+    "Images/World Map.jpeg",
     "Images/North Khiz.jpeg",
     "Images/Mosaic.webp",
     "Images/Log with his Dusk Mantel.webp",
-    "Images/Baker DnD.jpeg",
-    "Characters/Cupa.md",
-    "Notes/Sadgurth.md",
     "Notes",
-    "Notes/Churdean Theocracy.md",
     "Images",
-    "Sessions/2024-10-1 (txts).md",
-    "Characters/Lute.md",
-    "Characters/Log.md",
     "Sessions",
-    "Welcome.md",
-    "Characters/Vall Woodshadow.md",
-    "README.md",
     "Characters",
     "Players"
   ]

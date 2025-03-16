@@ -1,0 +1,3 @@
+- close friend and alley
+- Hangs out at a game lodge
+- Stern expression and commanding presence

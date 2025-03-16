@@ -1,0 +1,2 @@
+- Inn/tavern in [[Black Water]]
+- A regular place for discrete deal making to happen

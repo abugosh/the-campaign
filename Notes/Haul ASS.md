@@ -1,0 +1,2 @@
+- Place to rent travel gear
+- Offers insurance on the rentals
